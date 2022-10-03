@@ -1,1 +1,1 @@
-# IA-jogo-da-velha
+To configure the environment: pip install colorama
