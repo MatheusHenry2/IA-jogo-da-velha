@@ -1,1 +1,1 @@
-To configure the environment: pip install colorama
+#To configure the environment: pip install colorama
